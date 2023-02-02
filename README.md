@@ -7,10 +7,10 @@ ajackson03@vt.edu
 
 ## Photo
   
-(working on it!)
+![alt text](https://d3jlfsfsyc6yvi.cloudfront.net/image/mw:1024/q:85/https%3A%2F%2Fhaygot.s3.amazonaws.com%3A443%2Fcheatsheet%2F21515.png)
   
 ## Mentor
-None 
+Richard Gibbons
 
 ## Current Status
 Phase 1 (research)
