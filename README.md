@@ -39,9 +39,9 @@ Nothing built yet!
 Nothing built yet!
 
 ## Steps for Documenting Your Design Process
-
-Research: keep a google doc of all rescources found that could help build the motor (youtube videos, journals etc.)
-
+  Shared Google Doc
+https://docs.google.com/document/d/1wxH8bKZRjI_T2xBFLMrXH2ULUryzEV2jJNYmUS9NvFI/edit?usp=sharing
+  
 ## BOM + Component Cost
 
 Nothing designed yet!
