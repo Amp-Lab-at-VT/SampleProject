@@ -3,53 +3,60 @@ Jackson Andrwe, Electrical Engineering Student (2025)
 ajackson03@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<a class="button is-link" href="https://magicmirror.builders/" >https://github.com/Jack4891/3-Phase-AC-generator
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %}
+{% include youtube.html video="miltuOLWDFQ" %} 
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
+None 
 
 ## Current Status
-Complete
+Phase 1 (research)
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This AMP lab project will be using the AMP lab's resources and the ANSYS software to design, build and optimize a 3 phace AC generator.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Better understanding of Maxwell's equations as they relate to power generation
+Use and optimization of ANSYS software 
+Hardware experience to build and prepare motors
 
 ## Tasks
 
-<!-- Your Text Here. See Example above -->
+Research 3 phase motors
+Download ANSYS software
+Find a mentor
 
 ## Design Decisions
 
-<!-- Your Text Here. See Example above -->
+Nothing built yet!
 
 ## Design Misc
 
-<!-- Your Text Here. See Example above -->
+Nothing built yet!
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. See Example above -->
+Research: keep a google doc of all rescources found that could help build the motor (youtube videos, journals etc.)
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. See Example above -->
+Nothing designed yet!
 
 ## Timeline
 
-<!-- Your Text Here. See Example above -->
+Long term (Spring 2023 semester)
+  Find mentor and get other members of the WTT at Virginia Tech to join
+  Have basic understanding of ANSYS software
+  Order parts
 
 ## Useful Links
 
-<!-- Your Text Here. See Example above -->
+https://docs.google.com/document/d/1wxH8bKZRjI_T2xBFLMrXH2ULUryzEV2jJNYmUS9NvFI/edit?usp=sharing
 
 ## Log
 
-<!-- Your Text Here. See Example above -->
+2/2/23 Team started!
