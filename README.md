@@ -1,5 +1,5 @@
 ## Members
-Jackson Andrwe, Electrical Engineering Student (2025)
+Jackson Andrew, Electrical Engineering Student (2025)
 ajackson03@vt.edu
 
 ## Repo Link
