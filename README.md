@@ -20,9 +20,9 @@ This AMP lab project will be using the AMP lab's resources and the ANSYS softwar
 
 ## Educational Value Added
 
-Better understanding of Maxwell's equations as they relate to power generation
-Use and optimization of ANSYS software 
-Hardware experience to build and prepare motors
+Better understanding of Maxwell's equations as they relate to power generation      
+Use and optimization of ANSYS software      
+Hardware experience to build and prepare motors       
 
 ## Tasks
 
@@ -39,7 +39,7 @@ Nothing built yet!
 Nothing built yet!
 
 ## Steps for Documenting Your Design Process
-  Shared Google Doc
+  Shared Google Doc:    
 https://docs.google.com/document/d/1wxH8bKZRjI_T2xBFLMrXH2ULUryzEV2jJNYmUS9NvFI/edit?usp=sharing
   
 ## BOM + Component Cost
@@ -48,10 +48,10 @@ Nothing designed yet!
 
 ## Timeline
 
-Long term (Spring 2023 semester)
-  Find mentor and get other members of the WTT at Virginia Tech to join
-  Have basic understanding of ANSYS software
-  Order parts
+Long term (Spring 2023 semester)              
+  Find mentor and get other members of the WTT at Virginia Tech to join   
+  Have basic understanding of ANSYS software    
+  Order parts   
 
 ## Useful Links
 
