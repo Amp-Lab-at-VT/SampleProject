@@ -6,8 +6,9 @@ ajackson03@vt.edu
 <a class="button is-link" href="https://magicmirror.builders/" >https://github.com/Jack4891/3-Phase-AC-generator
 
 ## Photo
-{% include youtube.html video="miltuOLWDFQ" %} 
-
+  
+(working on it!)
+  
 ## Mentor
 None 
 
