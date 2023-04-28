@@ -1,6 +1,9 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Paul Broome, Electrical Engineering Student (2024)  
+pbroome4@vt.edu  
+Anson Trapani, Electrical and Computer Engineering (2024)
+Ben Updike, Electrical and Computer Engineering (2024)
+
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
@@ -9,22 +12,24 @@ rhforsythjr@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Josh Sutton, Electrical Engineering 2021
 
 ## Current Status
-Complete
+Design stage
 
 ## Project Overview
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Aim to build a controlled spark gap using a transformer and cockcroft-walton voltage multiplier. Using a small battery, we will generate a time varying waveform to be stepped up using a transformer and then further amplified using a cockcroft-walton circuit.
 
 ## Educational Value Added
-
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Reinforced theoretical concepts taught in class. Specifically, the use of oscilators, transformers, DC-DC conversion, and switching.
 
 ## Tasks
-
-<!-- Your Text Here. See Example above -->
+get amp lab access
+find mentor
+design circuit/perform analysis
+size components
+source components
+construct circuit
+test
 
 ## Design Decisions
 
