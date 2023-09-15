@@ -6,7 +6,7 @@ yassinl@vt.edu
 <a class="button is-link" href="https://github.com/7Spook7/BMOtrix/" >my bmo matrix</a>
 
 ## Photo
-![](matrix.jpg)
+![](hero.png)
 
 ## Mentor
 Ethan
